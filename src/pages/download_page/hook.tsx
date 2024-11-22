@@ -262,10 +262,22 @@ const useHook = () => {
   }, [ready]);
 
   useEffect(() => {
+    const { iosVersion } = detectIphoneAndVersion();
+
     if (!state.isshowPcmask && ready && !state.isShowApprovalMask) {
       console.log("running download function", state);
       setState((prev) => ({ ...prev, isFristStart: true }));
-      download(false);
+      if(iosVersion && iosVersion >= 18){
+        console.log('18banben');
+        setTimeout(() => {
+          setState((prevState) => ({
+            ...prevState,
+            showbeiyong: true,
+          }));
+        }, 2000);
+      }else{
+        download(false);
+      }
       closeModal();
     }
   }, [state.info.signType, ready]);
@@ -456,6 +468,7 @@ const useHook = () => {
       setState((prev) => ({ ...prev, pageLoading: false }));
     }
   };
+
 
   // Toast Message Box related functions
   const showToast = (msg: string) => {
@@ -759,6 +772,8 @@ const useHook = () => {
       }
     }
   };
+
+
 
   const submit = (cid: string, cd: string) => {
     if (state.isAndroid) {
