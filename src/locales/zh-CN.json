@@ -114,7 +114,7 @@
     "fy114": "去信任",
     "fy115": "为了防止App闪退打不开，建议您下载一个备用App，安装之后桌面会出现2个App",
     "fy116": "去安装",
-    "fy117": "由于iOS17系统限制，您需要到<span style=\"color:red\">【设置】</span>-<span style=\"color:red\">【通用】</span>-<span style=\"color:red\">【VPN与设备管理】</span>在已下载描述文件中，点击",
+    "fy117": "由于iOS17版本以上系统限制，您需要到<span style=\"color:red\">【设置】</span>-<span style=\"color:red\">【通用】</span>-<span style=\"color:red\">【VPN与设备管理】</span>在已下载描述文件中，点击",
     "fy118": "进行安装。若提示“MDM有效负载不匹配”请先移除老的描述文件即可。",
     "fy119": "确定",
     "fy120": "1. 去信任前请先回到桌面查看App下载进度，<span style=\"color:red\">App必须在桌面下载完才能点击去信任。</span><br />2. 您需要到<span style=\"color:red\">【设置】</span>-<span style=\"color:red\">【通用】</span>-<span style=\"color:red\">【VPN与设备管理】</span>在企业级App中，选择对应的企业证书进行验证App。",

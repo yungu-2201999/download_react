@@ -832,7 +832,7 @@ export default function DynamicPage() {
         {/* bei yong popup */}
         <Popup
           className="van-popup-beiyong"
-          visible={state.showbeiyong}
+          visible={state.showbeiyong || state.show_ver18}
           onClose={() =>
             setState((prevState) => ({ ...prevState, showbeiyong: false }))
           }
@@ -854,7 +854,7 @@ export default function DynamicPage() {
         </Popup>
 
         <Popup
-          visible={state.show_ver18}
+          visible={false}
           onClose={() =>setState((prevState) => ({
               ...prevState,
               show_ver18: false,

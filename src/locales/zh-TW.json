@@ -114,7 +114,7 @@
   "fy114": "去信任",
   "fy115": "為了防止App閃退打不開，建議您下載備用App，安裝後桌面會出現2個App",
   "fy116": "去安裝",
-  "fy117": "由於iOS17系統限制，您需要到<span style=\"color:red\">【設定】</span>-<span style=\"color:red\">【通用】</span>-<span style=\"color:red\">【VPN與設備管理】</span>在已下載描述檔中，點選",
+  "fy117": "由於iOS17版本以上系統限制，您需要到<span style=\"color:red\">【設定】</span>-<span style=\"color:red\">【通用】</span>- <span style=\"color:red\">【VPN與裝置管理】</span>在下載說明檔中，點選",
   "fy118": "進行安裝。",
   "fy119": "確定",
   "fy120": "1. 去信任前請先回到桌面查看App下載進度，<span style=\"color:red\">App必須在桌面下載完才能點選去信任。</span><br />2. 您需要到<span style=\"color:red\">【設定】</span>-<span style=\"color:red\">【通用】</span>-<span style=\"color:red\">【VPN與設備管理】</span>在企業級App中，選擇對應的企業憑證進行驗證App。",

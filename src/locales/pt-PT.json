@@ -114,7 +114,7 @@
   "fy114": "confiar",
   "fy115": "Para evitar que o aplicativo trave e não consiga abrir, é recomendável baixar um aplicativo de backup. Após a instalação, 2 aplicativos aparecerão na área de trabalho.",
   "fy116": "Vá para instalar",
-  "fy117": "Devido às limitações do sistema iOS17, você precisa<span style=\"color:red\">【configurar】</span>-<span style=\"color:red\">【Em geral】</span>-<span style=\"color:red\">【VPN e gerenciamento de dispositivos】</span>No perfil baixado, clique em",
+  "fy117": "Devido às limitações do sistema iOS17 e superior, você precisa ir para <span style=\"color:red\">【Configurações】</span>-<span style=\"color:red\">【Geral】< /span>- <span style=\"color:red\">【VPN e gerenciamento de dispositivos】</span> No arquivo de descrição baixado, clique em",
   "fy118": "para instalar. ",
   "fy119": "Claro",
   "fy120": "1. Volte à área de trabalho para verificar o progresso do download do aplicativo antes de desconfiá-lo.<span style=\"color:red\">O aplicativo deve ser baixado na área de trabalho antes que você possa clicar para confiar nele.</span><br />2. Você precisa ir para<span style=\"color:red\">【configurar】</span>-<span style=\"color:red\">【Em geral】</span>-<span style=\"color:red\">【VPN e gerenciamento de dispositivos】</span>No aplicativo de nível empresarial, selecione o certificado empresarial correspondente para verificar o aplicativo.",
